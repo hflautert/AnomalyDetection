@@ -1,4 +1,0 @@
-A planilha dataset_description.xlsx contem a descrição dos ataques, gerada por:
-KANG, Hyunjae; AHN, Dong Hyun; LEE, Gyung Min; YOO, Jeong Do;
-PARK, Kyung Ho; KIM, Huy Kang. IoT network intrusion dataset. [S.l.]: IEEE
-Dataport, 2019.
