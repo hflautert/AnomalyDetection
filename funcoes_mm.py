@@ -1,7 +1,13 @@
 #
 # Arquivo de funcoes auxiliares para media móvel
 #
-
+def modulos():
+  # Importando bibliotecas
+  # Manipulação de matrizes e operações matemáticas de alto nível
+  import numpy as np
+  # Geração de gráficos
+  import matplotlib.pyplot as plt
+  
 # Recebe arquivo em array numpy
 def prep_csv(arquivocsv):
   array_np = np.loadtxt(arquivocsv, delimiter=',',skiprows=1)
