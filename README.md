@@ -8,5 +8,5 @@ This repository presents an anomaly detection model in IoT networks.
 https://github.com/hflautert/AnomalyDetection/blob/main/ModeloHMM.ipynb
 
 ### Funções:
-[https://gist.github.com/hflautert/5bf858b4dc005877dcd340e67d9c4e85](https://gist.github.com/hflautert/5bf858b4dc005877dcd340e67d9c4e85)
+[https://gist.github.com/hflautert/c0d5dee869cb369a912de6b8c02d457e](https://gist.github.com/hflautert/c0d5dee869cb369a912de6b8c02d457e)
 
