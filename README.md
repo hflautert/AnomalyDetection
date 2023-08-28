@@ -12,7 +12,7 @@ https://github.com/hflautert/AnomalyDetection/blob/main/ModeloHMM.ipynb
 
 ### Resultados e Configurações Gerais:
 
-| Tempo  | Precisão | Delta G | Nº de Amostras | Taxa Mínima | Inicialização (m) |
+| Tempo  | Precisão | Delta G | k | Taxa Mínima | Inicialização (m) |
 | ------ | -------- | ------- | -------------- | ------------|-------------------|
 | 1 Minuto          |	100,00% |	1,10 |	10	| 75,38 |	10,00 |
 | 10 Segundos       |	97,67%  |	1,10 |	41	| 15,00 |	6,77  |
